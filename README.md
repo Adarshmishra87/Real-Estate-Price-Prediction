@@ -91,12 +91,6 @@ Detailed comparison available in `Outputs From Different Models.txt`.
 
 ---
 
-## ✨ Future Work
-- Experiment with advanced machine learning models like XGBoost or Neural Networks.
-- Build a web-based interface for real-time predictions.
-
----
-
 ## 👨‍💻 Contributing
 
 Contributions are welcome! Fork this repository and submit a pull request with your enhancements or fixes.
